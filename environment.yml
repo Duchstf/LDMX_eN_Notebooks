@@ -8,7 +8,8 @@ dependencies:
   - pip=20.3.3
   - pip:
     - matplotlib==3.3.4
-    - pandas==1.1.5
+    - coffea==0.7.1
+    - pandas==1.2.3
     - pyyaml==5.4.1
     - scikit-learn==0.24.1
     - scipy==1.5.4
@@ -16,4 +17,3 @@ dependencies:
     - particle==0.14.0
     - numba-scipy==0.2.0
     - tables==3.6.1
-    - uproot==3.12.0
